@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projetos\\Estudos\\_Cursos e Eventos\\Getting Started with .NET Core Identity Server 4\\BankOfDotNet\\BankOfDotNet\\BankOfDotNet.IdentitySvr\\BankOfDotNet.IdentitySvr.csproj": {}
+  },
+  "projects": {
+    "C:\\Projetos\\Estudos\\_Cursos e Eventos\\Getting Started with .NET Core Identity Server 4\\BankOfDotNet\\BankOfDotNet\\BankOfDotNet.IdentitySvr\\BankOfDotNet.IdentitySvr.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\Estudos\\_Cursos e Eventos\\Getting Started with .NET Core Identity Server 4\\BankOfDotNet\\BankOfDotNet\\BankOfDotNet.IdentitySvr\\BankOfDotNet.IdentitySvr.csproj",
+        "projectName": "BankOfDotNet.IdentitySvr",
+        "projectPath": "C:\\Projetos\\Estudos\\_Cursos e Eventos\\Getting Started with .NET Core Identity Server 4\\BankOfDotNet\\BankOfDotNet\\BankOfDotNet.IdentitySvr\\BankOfDotNet.IdentitySvr.csproj",
+        "packagesPath": "C:\\Users\\eryxj\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Estudos\\_Cursos e Eventos\\Getting Started with .NET Core Identity Server 4\\BankOfDotNet\\BankOfDotNet\\BankOfDotNet.IdentitySvr\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\eryxj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "IdentityServer4": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

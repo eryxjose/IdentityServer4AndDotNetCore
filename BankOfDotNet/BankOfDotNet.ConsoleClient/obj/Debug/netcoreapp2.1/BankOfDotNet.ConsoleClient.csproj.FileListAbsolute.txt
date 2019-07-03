@@ -1,0 +1,22 @@
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.ConsoleClient\bin\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.deps.json
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.ConsoleClient\bin\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.runtimeconfig.json
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.ConsoleClient\bin\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.runtimeconfig.dev.json
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.ConsoleClient\bin\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.dll
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.AssemblyInfoInputs.cache
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.AssemblyInfo.cs
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.ConsoleClient\bin\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.pdb
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.csprojAssemblyReference.cache
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.dll
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.pdb
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.ConsoleClient\bin\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.deps.json
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.ConsoleClient\bin\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.runtimeconfig.json
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.ConsoleClient\bin\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.runtimeconfig.dev.json
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.ConsoleClient\bin\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.dll
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.ConsoleClient\bin\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.pdb
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.csprojAssemblyReference.cache
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.AssemblyInfoInputs.cache
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.AssemblyInfo.cs
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.dll
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.pdb

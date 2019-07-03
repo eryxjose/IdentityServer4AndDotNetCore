@@ -1,0 +1,28 @@
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.IdentitySvr\bin\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.deps.json
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.IdentitySvr\bin\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.runtimeconfig.json
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.IdentitySvr\bin\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.runtimeconfig.dev.json
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.IdentitySvr\bin\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.dll
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.IdentitySvr\bin\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.pdb
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.IdentitySvr\obj\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.csproj.CoreCompileInputs.cache
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.IdentitySvr\obj\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.RazorAssemblyInfo.cache
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.IdentitySvr\obj\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.RazorAssemblyInfo.cs
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.IdentitySvr\obj\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.AssemblyInfoInputs.cache
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.IdentitySvr\obj\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.AssemblyInfo.cs
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.IdentitySvr\obj\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.RazorTargetAssemblyInfo.cache
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.IdentitySvr\obj\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.dll
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.IdentitySvr\obj\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.pdb
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.IdentitySvr\obj\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.csprojAssemblyReference.cache
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.IdentitySvr\bin\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.deps.json
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.IdentitySvr\bin\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.runtimeconfig.json
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.IdentitySvr\bin\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.runtimeconfig.dev.json
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.IdentitySvr\bin\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.dll
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.IdentitySvr\bin\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.pdb
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.IdentitySvr\obj\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.csprojAssemblyReference.cache
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.IdentitySvr\obj\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.IdentitySvr\obj\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.RazorAssemblyInfo.cache
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.IdentitySvr\obj\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.RazorAssemblyInfo.cs
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.IdentitySvr\obj\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.AssemblyInfoInputs.cache
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.IdentitySvr\obj\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.AssemblyInfo.cs
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.IdentitySvr\obj\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.RazorTargetAssemblyInfo.cache
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.IdentitySvr\obj\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.dll
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.IdentitySvr\obj\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.pdb

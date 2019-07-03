@@ -1,0 +1,28 @@
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.API\bin\Debug\netcoreapp2.1\BankOfDotNet.API.deps.json
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.API\bin\Debug\netcoreapp2.1\BankOfDotNet.API.runtimeconfig.json
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.API\bin\Debug\netcoreapp2.1\BankOfDotNet.API.runtimeconfig.dev.json
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.API\bin\Debug\netcoreapp2.1\BankOfDotNet.API.dll
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.1\BankOfDotNet.API.csprojAssemblyReference.cache
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.1\BankOfDotNet.API.csproj.CoreCompileInputs.cache
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.1\BankOfDotNet.API.RazorAssemblyInfo.cache
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.1\BankOfDotNet.API.RazorAssemblyInfo.cs
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.1\BankOfDotNet.API.AssemblyInfoInputs.cache
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.1\BankOfDotNet.API.AssemblyInfo.cs
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.1\BankOfDotNet.API.RazorTargetAssemblyInfo.cache
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.API\bin\Debug\netcoreapp2.1\BankOfDotNet.API.pdb
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.1\BankOfDotNet.API.dll
+C:\Users\ManishHomeOffice\source\repos\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.1\BankOfDotNet.API.pdb
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.API\bin\Debug\netcoreapp2.1\BankOfDotNet.API.deps.json
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.API\bin\Debug\netcoreapp2.1\BankOfDotNet.API.runtimeconfig.json
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.API\bin\Debug\netcoreapp2.1\BankOfDotNet.API.runtimeconfig.dev.json
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.API\bin\Debug\netcoreapp2.1\BankOfDotNet.API.dll
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.API\bin\Debug\netcoreapp2.1\BankOfDotNet.API.pdb
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.1\BankOfDotNet.API.csprojAssemblyReference.cache
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.1\BankOfDotNet.API.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.1\BankOfDotNet.API.RazorAssemblyInfo.cache
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.1\BankOfDotNet.API.RazorAssemblyInfo.cs
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.1\BankOfDotNet.API.AssemblyInfoInputs.cache
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.1\BankOfDotNet.API.AssemblyInfo.cs
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.1\BankOfDotNet.API.RazorTargetAssemblyInfo.cache
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.1\BankOfDotNet.API.dll
+C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.1\BankOfDotNet.API.pdb
