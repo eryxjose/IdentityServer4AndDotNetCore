@@ -786,23 +786,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\eryxj\\.nuget\\packages\\": {},
+    "C:\\Users\\eryx.neto\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Estudos\\_Cursos e Eventos\\Getting Started with .NET Core Identity Server 4\\BankOfDotNet\\BankOfDotNet\\BankOfDotNet.ConsoleClient\\BankOfDotNet.ConsoleClient.csproj",
+      "projectUniqueName": "D:\\repos\\TEMP\\IdentityServer4AndDotNetCore\\BankOfDotNet\\BankOfDotNet.ConsoleClient\\BankOfDotNet.ConsoleClient.csproj",
       "projectName": "BankOfDotNet.ConsoleClient",
-      "projectPath": "C:\\Projetos\\Estudos\\_Cursos e Eventos\\Getting Started with .NET Core Identity Server 4\\BankOfDotNet\\BankOfDotNet\\BankOfDotNet.ConsoleClient\\BankOfDotNet.ConsoleClient.csproj",
-      "packagesPath": "C:\\Users\\eryxj\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Estudos\\_Cursos e Eventos\\Getting Started with .NET Core Identity Server 4\\BankOfDotNet\\BankOfDotNet\\BankOfDotNet.ConsoleClient\\obj\\",
+      "projectPath": "D:\\repos\\TEMP\\IdentityServer4AndDotNetCore\\BankOfDotNet\\BankOfDotNet.ConsoleClient\\BankOfDotNet.ConsoleClient.csproj",
+      "packagesPath": "C:\\Users\\eryx.neto\\.nuget\\packages\\",
+      "outputPath": "D:\\repos\\TEMP\\IdentityServer4AndDotNetCore\\BankOfDotNet\\BankOfDotNet.ConsoleClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\eryxj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\eryx.neto\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -831,7 +831,6 @@
             "version": "[3.9.0, )"
           },
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true

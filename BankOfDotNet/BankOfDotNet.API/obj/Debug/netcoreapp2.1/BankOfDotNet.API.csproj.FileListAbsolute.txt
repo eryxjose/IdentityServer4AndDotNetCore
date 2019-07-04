@@ -26,3 +26,17 @@ C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Se
 C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.1\BankOfDotNet.API.RazorTargetAssemblyInfo.cache
 C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.1\BankOfDotNet.API.dll
 C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.1\BankOfDotNet.API.pdb
+D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.API\bin\Debug\netcoreapp2.1\BankOfDotNet.API.deps.json
+D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.API\bin\Debug\netcoreapp2.1\BankOfDotNet.API.runtimeconfig.json
+D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.API\bin\Debug\netcoreapp2.1\BankOfDotNet.API.runtimeconfig.dev.json
+D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.API\bin\Debug\netcoreapp2.1\BankOfDotNet.API.dll
+D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.API\bin\Debug\netcoreapp2.1\BankOfDotNet.API.pdb
+D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.1\BankOfDotNet.API.csprojAssemblyReference.cache
+D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.1\BankOfDotNet.API.csproj.CoreCompileInputs.cache
+D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.1\BankOfDotNet.API.RazorAssemblyInfo.cache
+D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.1\BankOfDotNet.API.RazorAssemblyInfo.cs
+D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.1\BankOfDotNet.API.AssemblyInfoInputs.cache
+D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.1\BankOfDotNet.API.AssemblyInfo.cs
+D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.1\BankOfDotNet.API.RazorTargetAssemblyInfo.cache
+D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.1\BankOfDotNet.API.dll
+D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.1\BankOfDotNet.API.pdb

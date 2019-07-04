@@ -20,3 +20,14 @@ C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Se
 C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.AssemblyInfo.cs
 C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.dll
 C:\Projetos\Estudos\_Cursos e Eventos\Getting Started with .NET Core Identity Server 4\BankOfDotNet\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.pdb
+D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.ConsoleClient\bin\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.deps.json
+D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.ConsoleClient\bin\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.runtimeconfig.json
+D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.ConsoleClient\bin\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.runtimeconfig.dev.json
+D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.ConsoleClient\bin\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.dll
+D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.ConsoleClient\bin\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.pdb
+D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.csprojAssemblyReference.cache
+D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.csproj.CoreCompileInputs.cache
+D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.AssemblyInfoInputs.cache
+D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.AssemblyInfo.cs
+D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.dll
+D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.1\BankOfDotNet.ConsoleClient.pdb
