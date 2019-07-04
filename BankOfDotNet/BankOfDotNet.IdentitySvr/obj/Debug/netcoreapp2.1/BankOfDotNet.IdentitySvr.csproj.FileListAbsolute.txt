@@ -31,7 +31,6 @@ D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.IdentitySvr
 D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.IdentitySvr\bin\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.runtimeconfig.dev.json
 D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.IdentitySvr\bin\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.dll
 D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.IdentitySvr\bin\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.pdb
-D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.IdentitySvr\obj\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.csprojAssemblyReference.cache
 D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.IdentitySvr\obj\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.csproj.CoreCompileInputs.cache
 D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.IdentitySvr\obj\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.RazorAssemblyInfo.cache
 D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.IdentitySvr\obj\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.RazorAssemblyInfo.cs
@@ -40,3 +39,4 @@ D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.IdentitySvr
 D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.IdentitySvr\obj\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.RazorTargetAssemblyInfo.cache
 D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.IdentitySvr\obj\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.dll
 D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.IdentitySvr\obj\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.pdb
+D:\repos\TEMP\IdentityServer4AndDotNetCore\BankOfDotNet\BankOfDotNet.IdentitySvr\obj\Debug\netcoreapp2.1\BankOfDotNet.IdentitySvr.csprojAssemblyReference.cache
