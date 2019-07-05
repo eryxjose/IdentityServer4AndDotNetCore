@@ -5,8 +5,6 @@ using System.Threading.Tasks;
 using BankOfDotNet.IdentitySvr.Models;
 using Microsoft.AspNetCore.Mvc;
 
-
-
 namespace BankOfDotNet.IdentitySvr.Controllers
 {
     public class UserController : Controller

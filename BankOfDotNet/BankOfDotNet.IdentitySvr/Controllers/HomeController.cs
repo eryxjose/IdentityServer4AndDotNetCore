@@ -11,10 +11,20 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace BankOfDotNet.IdentitySvr.Controllers
 {
+    [Authorize]
+    [Route("[controller]/[action]")]
     public class HomeController : Controller
     {
+
         private readonly UserManager<ApplicationUser> _userManager;
-        private readonly SignInManager<ApplicationUser> _signInManager;[HttpPost]
+        private readonly SignInManager<ApplicationUser> _signInManager;
+
+        public HomeController(UserManager<ApplicationUser> userManager, SignInManager<ApplicationUser> signInManager)
+        {
+            _userManager = userManager;
+            _signInManager = signInManager;
+        }
+
 
         [HttpPost]
         [AllowAnonymous]
@@ -33,47 +43,100 @@ namespace BankOfDotNet.IdentitySvr.Controllers
                 });
             }
 
-            var user = new ApplicationUser { UserName = model.Email, Email = model.Email };
-            var result = await _userManager.CreateAsync(user, model.Password);
-
-            if (!result.Succeeded)
+            try
             {
 
-                if (result.Errors.FirstOrDefault().Code == "DuplicateUserName")
+                var user = new ApplicationUser { UserName = model.Email, Email = model.Email };
+                var result = await _userManager.CreateAsync(user, model.Password);
+
+                if (!result.Succeeded)
                 {
-                    return new ObjectResult(result.Errors.FirstOrDefault()) { StatusCode = StatusCodes.Status409Conflict };
+
+                    if (result.Errors.FirstOrDefault().Code == "DuplicateUserName")
+                    {
+                        return new ObjectResult(result.Errors.FirstOrDefault()) { StatusCode = StatusCodes.Status409Conflict };
+                    }
+
+                    return new ObjectResult(new
+                    {
+                        code = StatusCodes.Status400BadRequest,
+                        details = result.Errors,
+                        message = "",
+                        messageToken = "invalidUserOrPassword",
+                    })
+                    { StatusCode = StatusCodes.Status400BadRequest };
                 }
-
-                return new ObjectResult(new
+                else
                 {
-                    code = StatusCodes.Status400BadRequest,
-                    details = result.Errors,
-                    message = "",
-                    messageToken = "invalidUserOrPassword",
-                })
-                { StatusCode = StatusCodes.Status400BadRequest };
+                    //_logger.LogInformation("User created a new account with password.");
+                    //var code = await _userManager.GenerateEmailConfirmationTokenAsync(user);
+                    //var callbackUrl = Url.EmailConfirmationLink(user.Id, code, Request.Scheme);
+                    //await _emailSender.SendEmailConfirmationAsync(model.Email, callbackUrl);
+                    //await _signInManager.SignInAsync(user, isPersistent: false);
+                    //_logger.LogInformation("User created a new account with password.");
+
+                    return new JsonResult(new
+                    {
+                        id = user.Id,
+                    });
+                }
             }
-            else
+            catch (Exception ex)
             {
-                //_logger.LogInformation("User created a new account with password.");
 
-                var code = await _userManager.GenerateEmailConfirmationTokenAsync(user);
-                //var callbackUrl = Url.EmailConfirmationLink(user.Id, code, Request.Scheme);
-                //await _emailSender.SendEmailConfirmationAsync(model.Email, callbackUrl);
+                throw;
+            }
+        }
 
-                await _signInManager.SignInAsync(user, isPersistent: false);
-                //_logger.LogInformation("User created a new account with password.");
-
-                return new JsonResult(new
-                {
-                    id = user.Id,
-                });
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> ChangePassword(ChangePasswordViewModel model)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(model);
             }
 
+            var user = await _userManager.GetUserAsync(User);
+            if (user == null)
+            {
+                throw new ApplicationException($"Unable to load user with ID '{_userManager.GetUserId(User)}'.");
+            }
+
+            var changePasswordResult = await _userManager.ChangePasswordAsync(user, model.OldPassword, model.NewPassword);
+            if (!changePasswordResult.Succeeded)
+            {
+                //AddErrors(changePasswordResult);
+                return View(model);
+            }
+
+            await _signInManager.SignInAsync(user, isPersistent: false);
+            //_logger.LogInformation("User changed their password successfully.");
+            //StatusMessage = "Your password has been changed.";
+
+            return RedirectToAction(nameof(ChangePassword));
         }
-        public IActionResult Index()
+
+        [HttpGet]
+        [AllowAnonymous]
+        public ActionResult Index()
         {
-            return View();
+            return Json("index view");
+        }
+
+
+        [HttpGet]
+        [AllowAnonymous]
+        public ActionResult Login()
+        {
+            return Json("login view");
+        }
+
+        [HttpPost]
+        [AllowAnonymous]
+        public ActionResult LoginResult()
+        {
+            return Json("Login post ");
         }
 
     }

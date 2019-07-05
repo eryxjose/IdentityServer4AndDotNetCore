@@ -52,6 +52,18 @@ namespace BankOfDotNet.ConsoleClient
                 Console.WriteLine(createCustomerResponse.StatusCode);
             }
 
+
+
+            var changePassInfo = new StringContent(
+                JsonConvert.SerializeObject(
+                        new { OldPassword = "11qq!!QQ", NewPassword = "123qwe!@#QWE", ConfirmPassword = "123qwe!@#QWE" }),
+                        Encoding.UTF8, "application/json");
+
+            var createChangePassResponse = await client.PostAsync("http://localhost:59337/api/ChangePass"
+                                                            , customerInfo);
+
+
+
             var getCustomerResponse = await client.GetAsync("http://localhost:59337/api/customers");
             if(!getCustomerResponse.IsSuccessStatusCode)
             {

@@ -34,6 +34,8 @@ namespace BankOfDotNet.IdentitySvr
                 .AddEntityFrameworkStores<ApplicationDbContext>()
                 .AddDefaultTokenProviders();
 
+            services.AddMvc();
+
             services.Configure<IdentityOptions>(options =>
             {
                 // Password settings
@@ -44,8 +46,6 @@ namespace BankOfDotNet.IdentitySvr
                 options.Password.RequireLowercase = false;
                 options.Password.RequiredUniqueChars = 0;
             });
-
-
 
             services.AddIdentityServer()
                 .AddDeveloperSigningCredential()
@@ -62,7 +62,26 @@ namespace BankOfDotNet.IdentitySvr
             }
 
             app.UseAuthentication();
+
+            app.UsePathBase("/auth");
+
+            app.UseStaticFiles();
+
+            app.UseCors(builder =>
+                builder.WithOrigins("*")
+                    .AllowAnyHeader()
+                    .AllowCredentials()
+            );
+
+            // app.UseAuthentication(); // not needed, since UseIdentityServer adds the authentication middleware
             app.UseIdentityServer();
+
+            app.UseMvc(routes =>
+            {
+                routes.MapRoute(
+                    name: "default",
+                    template: "{controller=Account}/{action=Login}");
+            });
         }
     }
 }
